@@ -7,7 +7,7 @@ This library is a grouping of 1D approximate solutions for the BPP  There is als
 
 ## Example
 
-`python
+```python
 
 import random
 
