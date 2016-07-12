@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/ibigpapa/bin_packing_problem.svg?branch=master)](https://travis-ci.org/ibigpapa/bin_packing_problem)
+
 # Bin Packing Problem
 
 This library is a grouping of 1D approximate solutions for the BPP  There is also a generic function to create variants.
